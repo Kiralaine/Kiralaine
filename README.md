@@ -16,3 +16,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Kiralaine&icon=0&color=0)](https://visitcount.itsvg.in)
 
+---
+![Jokes Card](https://readme-jokes.vercel.app/api)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bxuib57qyttczpipuvxvqczsdq&cover_image=true&theme=default&show_offline=true&background_color=613583&interchange=true&bar_color=000000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catpuccin)](https://github.com/piyushsuthar/github-readme-quotes)
