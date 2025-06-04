@@ -15,3 +15,4 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=Kiralaine&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://capsule-render.vercel.app/api?type=waving&height=300&color=f55c14&text=Welcome%20to%20there!&section=footer&fontColor=ffffff&animation=fadeIn&textBg=false)
