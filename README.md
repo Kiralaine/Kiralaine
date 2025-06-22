@@ -1,9 +1,4 @@
-
-<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Kiralaine&theme=fuji">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Kiralaine&theme=road_trip>
-   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Kiralaine&include_all_commits=true&theme=journey">
-</picture>
+![](https://pixel-profile-ui.vercel.app/api/github-stats?username=Kiralaine&screen_effect=true&include_all_commits=true&pixelate_avatar=false&background=linear-gradient%280deg%2C+%23eaaded38+0%25%2C+%23a884f382+100%25%29+%2C+url%28https%3A%2F%2Fi.pinimg.com%2F736x%2F99%2F3b%2F5e%2F993b5ec93d787d92decac6dc4b07eb9a.jpg%29&color=%23ffffffFF)
 
 
 <p align="center">
