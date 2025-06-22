@@ -1,4 +1,4 @@
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=Kiralaine&theme=crt&screen_effect=true&include_all_commits=true">
+[![](https://pixel-profile.vercel.app/api/github-stats?username=Kiralaine&theme=crt&screen_effect=true&include_all_commits=true)](https://t.me/Kiralaine)
 
 ---
 <p align="center">
