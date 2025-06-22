@@ -1,4 +1,4 @@
-![stats](https://pixel-profile.vercel.app/api/github-stats?username=Kiralaine&theme=crt&screen_effect=true&include_all_commits=true)
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=Kiralaine&theme=crt&screen_effect=true&include_all_commits=true">
 
 ---
 <p align="center">
