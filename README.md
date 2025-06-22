@@ -1,6 +1,6 @@
 
 <picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Kiralaine&theme=crt">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Kiralaine&theme=fuji">
   <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Kiralaine&screen_effect=true&theme=rainbow">
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Kiralaine&include_all_commits=true&theme=crt">
 </picture>
