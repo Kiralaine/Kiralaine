@@ -1,5 +1,5 @@
 
-<source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Kiralaine&screen_effect=true&include_all_commits=true&pixelate_avatar=false&theme=crt&theme=crt&color=%23ffffffFF">
+[](https://pixel-profile.vercel.app/api/github-stats?username=Kiralaine&screen_effect=true&include_all_commits=true&pixelate_avatar=false&theme=crt&theme=crt&color=%23ffffffFF)
 
 <p align="center">
   <a href="https://fontmeme.com/pixel-fonts/">
