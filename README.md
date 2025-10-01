@@ -16,8 +16,7 @@
 ![](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31bxuib57qyttczpipuvxvqczsdq&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31bxuib57qyttczpipuvxvqczsdq&cover_image=true&theme=novatorem&show_offline=true&background_color=ff7800&interchange=true&bar_color=9141ac&bar_color_cover=true)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kiralaine&theme=dracula&exclude=html,css,javascript)
-
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kiralaine&theme=gruvbox) 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kiralaine&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
