@@ -1,5 +1,5 @@
 
- <img src="https://i.pinimg.com/736x/4f/0d/e9/4f0de9cf8a420ed3ce0573f5ff0bd49f.jpg" height="100" width="1200"> 
+ <img src="https://i.pinimg.com/736x/4f/0d/e9/4f0de9cf8a420ed3ce0573f5ff0bd49f.jpg" height="300" width="1200"> 
 
 <p align="center">
   <a href="https://fontmeme.com/pixel-fonts/">
