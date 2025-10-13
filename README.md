@@ -1,5 +1,5 @@
 
- <img src="https://pixel-profile.vercel.app/api/github-stats?username=Kiralaine&screen_effect=true&include_all_commits=true&pixelate_avatar=false&theme=crt&theme=crt"> 
+ <img src="https://i.pinimg.com/736x/4f/0d/e9/4f0de9cf8a420ed3ce0573f5ff0bd49f.jpg"> 
 
 <p align="center">
   <a href="https://fontmeme.com/pixel-fonts/">
