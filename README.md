@@ -1,5 +1,7 @@
 
- <img src="https://i.pinimg.com/736x/4f/0d/e9/4f0de9cf8a420ed3ce0573f5ff0bd49f.jpg" height="600" width="1200" href="https://t.me/kafkaapache"> 
+<a href="https://t.me/kafkaapache">
+  <img src="https://i.pinimg.com/736x/4f/0d/e9/4f0de9cf8a420ed3ce0573f5ff0bd49f.jpg" width="1200" height="600" alt="Kafka picture">
+</a>
 
 <p align="center">
   <a href="https://fontmeme.com/pixel-fonts/">
