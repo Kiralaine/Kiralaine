@@ -12,7 +12,7 @@
 
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![RayLib](https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
-![](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31bxuib57qyttczpipuvxvqczsdq&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31bxuib57qyttczpipuvxvqczsdq&cover_image=true&theme=novatorem&show_offline=true&background_color=ff7800&interchange=true&bar_color=9141ac&bar_color_cover=true)
+![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gray&text=Welcome!&section=footer&fontColor=FFFFFF)
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kleophon&theme=dracula) 
