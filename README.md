@@ -12,7 +12,7 @@
 
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![RayLib](https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
-![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gray&text=Welcome!&section=footer&fontColor=FFFFFF)
+
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kleophon&theme=dracula) 
@@ -20,4 +20,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=Kleophon&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-![](https://capsule-render.vercel.app/api?type=waving&height=300&color=e5b6f3&text=Welcome!&section=footer&reversal=true&textBg=false&fontColor=ffffff)
+![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gray&text=Welcome!&section=footer&fontColor=FFFFFF)
